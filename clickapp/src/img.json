@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "angry",
+        "image": "https://res.cloudinary.com/regina/image/upload/v1531886816/reactapp-clicky/Angry.png"
+    },
+    {
+        "id": 2,
+        "name": "blush",
+        "image": "https://res.cloudinary.com/regina/image/upload/v1531886816/reactapp-clicky/Blush.png"
+    },
+    {
+        "id": 3,
+        "name": "confused",
+        "image": "https://res.cloudinary.com/regina/image/upload/v1531886815/reactapp-clicky/Confused.png"
+    },
+    {
+        "id": 4,
+        "name": "crazy",
+        "image": "https://res.cloudinary.com/regina/image/upload/v1531886816/reactapp-clicky/Crazy.png"
+    },
+    {
+        "id": 5,
+        "name": "cry",
+        "image": "https://res.cloudinary.com/regina/image/upload/v1531886815/reactapp-clicky/Cry.png"
+    },
+    {
+        "id": 6,
+        "name": "embarrassed",
+        "image": "https://res.cloudinary.com/regina/image/upload/v1531886816/reactapp-clicky/Embarrassed.png"
+    },
+    {
+        "id": 7,
+        "name": "excited",
+        "image": "https://res.cloudinary.com/regina/image/upload/v1531886816/reactapp-clicky/Excited.png"
+    },
+    {
+        "id": 8,
+        "name": "happy",
+        "image": "https://res.cloudinary.com/regina/image/upload/v1531886816/reactapp-clicky/Happy.png"
+    },
+    {
+        "id": 9,
+        "name": "normal",
+        "image": "http://res.cloudinary.com/regina/image/upload/v1531886817/reactapp-clicky/Normal.png"
+    },
+    {
+        "id": 10,
+        "name": "sad",
+        "image": "https://res.cloudinary.com/regina/image/upload/v1531886816/reactapp-clicky/Sad.png"
+    },
+    {
+        "id": 11,
+        "name": "shocked",
+        "image": "https://res.cloudinary.com/regina/image/upload/v1531886816/reactapp-clicky/Shocked.png"
+    },
+    {
+        "id": 12,
+        "name": "sleepy",
+        "image": "https://res.cloudinary.com/regina/image/upload/v1531886816/reactapp-clicky/Sleepy.png"
+    }
+]
